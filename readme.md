@@ -1,5 +1,7 @@
 ## Getting Started
 
+LIVE LINK - https://project-hazel-one.vercel.app/
+
 1. run `npm install` to install all of the dependencies
 2. in order to run this project properly you need to run Next.js development server and Node API server at the same time
 3. to run Next.js application run `npm run dev` and open browser at localhost:3000
