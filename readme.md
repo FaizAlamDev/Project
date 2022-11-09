@@ -15,3 +15,15 @@ DOMAIN = YOUR_DOMAIN // e.g http://localhost:3000
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 Open [http://localhost:3001/api/test](http://localhost:3001/api/test) with your browser to test API Server
+
+### HOME PAGE
+
+![HomePage](/images/homePage.png)
+
+### REGISTER PAGE
+
+![RegisterPage](images/Register.png)
+
+### CONTACT US PAGE
+
+![ContactUsPage](images/Contact.png)
