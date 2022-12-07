@@ -1,9 +1,16 @@
 [
-	{
-		"_id": "_xgh8o4jtv",
-		"resource": "users",
-		"email": "test@gmail.com",
-		"username": "Testy Mesty",
-		"password": "$2a$10$JgOy65WFrBuQvD.TLciX/ul4pLXjfxv2XAwKQ5Chu7joj/4WBk.Uy"
-	}
+  {
+    "_id": "_xgh8o4jtv",
+    "resource": "users",
+    "email": "test@gmail.com",
+    "username": "Testy Mesty",
+    "password": "$2a$10$JgOy65WFrBuQvD.TLciX/ul4pLXjfxv2XAwKQ5Chu7joj/4WBk.Uy"
+  },
+  {
+    "_id": "_jy74lv9vo",
+    "resource": "users",
+    "email": "faizalam9883@gmail.com",
+    "username": "faizalam9883",
+    "password": "$2a$10$1weYSlmJae0dDZQwAeaDTucNOwO0SnefXt50VjzOXrhl/Mwe9ZF1K"
+  }
 ]

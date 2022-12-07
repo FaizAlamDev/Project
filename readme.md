@@ -20,12 +20,12 @@ Open [http://localhost:3001/api/test](http://localhost:3001/api/test) with your 
 
 ### HOME PAGE
 
-![HomePage](/images/homePage.png)
+![HomePage](/images/HomePage.png)
 
 ### REGISTER PAGE
 
-![RegisterPage](images/Register.png)
+![RegisterPage](images/RegisterPage.png)
 
 ### CONTACT US PAGE
 
-![ContactUsPage](images/Contact.png)
+![ContactUsPage](images/ContactUsPage.png)
