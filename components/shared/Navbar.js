@@ -15,7 +15,7 @@ const AppNavbar = () => {
 					href='/'
 					className='navbar-brand mr-3 font-weight-bold'
 				>
-					YourSite
+					HOME
 				</AppLink>
 				<Navbar.Toggle />
 				<Navbar.Collapse>

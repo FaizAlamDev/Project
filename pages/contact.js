@@ -18,7 +18,7 @@ const Form = () => {
 			.replace(/\r\n|\r|\n/g, '%0D%0A')
 			.replace(' ', '%20')
 		const request =
-			'mailto:YOUREMAIL?subject=Email%20from%20' +
+			`mailto:${inputs.email}?subject=Email%20from%20` +
 			inputs.name +
 			'/' +
 			inputs.email +
